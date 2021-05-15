@@ -5,7 +5,7 @@
 
 This is some of my previous work by using `Flutter Framework`.
 
-If You need to me build your custom app you can contact with me on **My Website** or **Social Media Accounts**.
+If You need to build your custom app, contact with me on **My Website** or **Social Media Accounts**.
 
 <br/>
 
